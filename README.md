@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# clean-vimrc
-=======
 # clean-vimrc
 Using vim instead of notepad! Enter these codes into your **bash**! 
 ```bash
